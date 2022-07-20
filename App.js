@@ -72,7 +72,7 @@ const App: () => Node = () => {
             Edit <Text style={styles.highlight}>App.js</Text> to change this
             screen and then come back to see your edits.
           </Section>
-          <Section title="See Your Changes prueba commit ">
+          <Section title="See Your Changes prueba commit 2 ">
             <ReloadInstructions />
           </Section>
           <Section title="Debug">
